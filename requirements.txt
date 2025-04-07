@@ -1,0 +1,12 @@
+chainlit
+
+autogen-agentchat
+autogen-ext[openai]
+
+markdown-pdf
+
+html2text
+httpx
+bs4
+
+python-dotenv
